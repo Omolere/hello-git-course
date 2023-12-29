@@ -5,4 +5,4 @@
 *.out
 
 # Ignore compiled Python files
-*.pycTesting GitLab settings. Ignore this file
+*.pyc
